@@ -1,4 +1,5 @@
 # singa
 ## singa yeet is cool
 ### we love emma singa
-singa yeet **bold text**
+**singa yeet**
+
